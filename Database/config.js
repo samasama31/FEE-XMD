@@ -43,7 +43,7 @@ async function initializeDatabase() {
 
         const defaultSettings = {
             prefix: '.',
-            packname: 'Fee-Xmd',
+            packname: '𝙁𝙀𝙀-𝙓𝙈𝘿',
             mode: 'public',
             presence: 'online',
             autoview: 'true',
@@ -52,7 +52,7 @@ async function initializeDatabase() {
             autobio: 'false',
             anticall: 'false',
             chatbotpm: 'false',
-            autolikeemoji: '❤️',
+            autolikeemoji: '🩷',
             antilink: 'off',
             antidelete: 'false',
             antistatusmention: 'delete',
